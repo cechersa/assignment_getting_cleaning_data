@@ -7,6 +7,9 @@ date: "2/1/2021"
 output: pdf_document
 ---
 
+# The following code can be performed in the R console or through the CODEBOOK_MD.Rmd in order to get the CODEBOOK for the variables in the tidy_data_Set
+
+# The run_analysis.R is the script to obtain the data set
 
 ```{r}
 library("stringr")
